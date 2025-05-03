@@ -18,7 +18,7 @@ This project is a comprehensive analysis of employee data for ABC Company, based
 
 - Team Distribution: Count and percentage split of employees per team
 - Position Segregation: Grouping of employees by position title
-- Age Analysis: Predominant age group identified using median/mode
+- Age Analysis: Predominant age group 
 - Salary Insights: Highest salary expenditure by team and by position
 - Correlation: Between age and salary
 
@@ -34,7 +34,7 @@ This project is a comprehensive analysis of employee data for ABC Company, based
 - The most common team and position were identified.
 - The 26–30 age group is the most represented.
 - Strong patterns emerged in salary allocation across roles.
-- Weak/moderate correlation observed between age and salary.
+- moderate correlation observed between age and salary.
 
 # Files Included
 
